@@ -5,7 +5,7 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files (x86)\Tesseract-OCR\t
 y = 0
 total_list = []
 corr = []
-img = cv2.imread("C:\Sid\Projects\Segmentation\img2.jpeg")
+img = cv2.imread(Your image path here)
 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 img = cv2.convertScaleAbs(img, alpha=1.5, beta=0)
 #cong = r'--oem 3 --psm 6 outputbase digitsC:\Sid\Projects\Segmentation\overlay.jpg'
