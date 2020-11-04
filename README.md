@@ -11,3 +11,6 @@ Here's one example of how the script works.
 ![test](https://github.com/Siddharth-Gautam0/Aadhar-Digit-Censor/blob/main/Before-after/Screenshot%20(298).png)
 
 ![test2](https://github.com/Siddharth-Gautam0/Aadhar-Digit-Censor/blob/main/Before-after/Screenshot%20(299).png)
+
+
+More examples in Before-after folder.
